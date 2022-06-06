@@ -1,0 +1,5 @@
+term	estimate	std.error	statistic	p.value
+(Intercept)	-1.128	1.002	-1.125	0.27
+age_mo_round	0.278	0.093	2.987	<.01
+languageYélî Dnye	3.404	2.565	1.327	0.195
+age_mo_round:languageYélî Dnye	-0.266	0.208	-1.281	0.211
