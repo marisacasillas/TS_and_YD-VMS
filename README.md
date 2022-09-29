@@ -1,6 +1,6 @@
 # Data and scripts:
 
-(Non-)effects of linguistic environment on early stable consonant production: A cross cultural case study. Bram Peute & Marisa Casillas, _Glossa_ (in press)
+Bram Peute & Marisa Casillas (2022). (Non-)effects of linguistic environment on early stable consonant production: A cross cultural case study. _Glossa: A journal of general linguistics 7_(1). [paper link](https://www.glossa-journal.org/article/id/5813/)
 
 This directory contains the scripts used to generate the analyses in the above-cited paper. Access to the raw input data (.eaf files) can be achieved via accessing the Casillas HomeBank repository—the raw .eaf files are not shared in this public GitHub repository because the transcribed data may contain identifying information.
 
